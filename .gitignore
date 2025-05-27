@@ -13,3 +13,15 @@ states/
 # Optional
 .env
 .env.local
+
+#Node moules
+node_modules
+
+#Cache
+cache
+
+#Net
+.next
+
+#eN
+.env
